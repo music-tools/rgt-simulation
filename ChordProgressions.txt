@@ -1,0 +1,8 @@
+|G6 / / / |Cmaj7 / / / |Bm7 / / / |Am7 / D9 / |Em7 / / / |Cmaj7 / / / |Bm7 / / / |Am7 / D+ / |G6 / / / |Cmaj7 / / / |Bm7 / / / |Am7 / D9 / |Gmaj7 / Em9 / |C6 / Am9 / |D9 / D+ / |Gmaj7 / / / ||
+|:F# / / / |Go / / / |G#m7 / / / |Ao / / / |A#m7 / / / |A7 / / / |G#m7 / / / |C#7 / / / :|  |B / / / |Co / / / |F# / / / |D#7 / / / |G#7 / / / |C#9 / / / |F#6 / / / |F#maj9 / / /|| 
+|Am7 / / / |Dm9 / / / |G / F E |Am / E+ / |Am7 / / / |Dm9 / / / |G / F E |Am / G / |Cmaj7 / Cmaj9 / |Bm7 / Bm9 / |Cmaj7 / Cmaj9 / |Esus4 / E / |Cmaj7 / Cmaj9 / |Bm6 / Bm9 / |Fmaj9 / / / |Cmaj9 / / / ||
+|:Dmaj9 / / /|F#m7 / / / |G6 / / / |A+ / / / :| |Dmaj9 / / / |Em9 / / / |Fo / / / |F#m7 / / / |Gmaj7 / / / |G6 / / / |Gmaj7 / / / |Gmaj9 / / / |Dmaj9 / / / |Em9 / / / |Fo / / / |F#m7 / / / |F7 / / / |Em7 / / / |Eb7 / / / |Dmaj7 / / / |Gmaj7 / / / |Dmaj9 / / / ||
+|:Cmaj9 / Cmaj7 / |C6 / C / |Em7b5 / A7 / |Dm7 / Dm9 / |/ / G7 Fo |Em7 Eb7 Dm9 Db7 |Cmaj9 / Cmaj7 / |Em7b5 / A7 / |Dm6 / Dm9 / | / / G7sus4 G9 |C / / B9 :|
+|:Em7 / / Em9 |C9 / B9 B7 |Em7 / C9 / |B9 B7 F9 Ebo |G / Em7 / |Am7 / D9 D7 |G7 / F#9 / |G9 / Gaug / :|
+|:Cmaj7 / / C6| / / A9 / |Dm / Dm9 / |G7 / / / |Dm7 / Dm9 / |G7 / / G9 |Dm9 / G9 / |Cmaj7 / Dm7 G9 :| |F / Dm7 / |Gm9 / C7 / |F / Dm6 / |Gm7 / C9 / |Gbmaj7 / Ebm9 / |Abm7 / Db9 / |Gb6 / Ebm6 / |Dm7 / G7 C#7 / |Cmaj9 / / / ||
+|:Cm6 / / / | / / / C9|Fm6 / / / |/ / / / |Cm6 / / / | / / / A9 |Dm7b5 / / / |G9 / / / |Cm6 / A7 / |Dm7b5 / G9 / :|
